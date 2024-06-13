@@ -35,7 +35,6 @@ OS:           Windows 11 10.0 amd64
 ## Folders Abbreviations
 <ul>
   <li>DL: Data Layer (File Handling Technique)</li>
-  <li>DBDL: Database Data Layer (Database Technique)</li>
   <li>PL: Presentation Layer</li>
   <li>BL: Business Layer </li>
 </ul>
